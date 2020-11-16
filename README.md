@@ -6,7 +6,7 @@ FOLLOW:
  * Now, open the xampp control panel and start Apache and Mysql. Press the Admin button in the line of Mysql. This should open phpMyAdmin in your browser. Now open a new tab       inside your browser and do localhost/group8/transport/regester1.php
  * This starts our signup page and there on you can move to further pages.
  * In our login page we have given authentication controls by giving predefined credentials to our staff.
- * You can find predefined credentials in the following tables fo database.
-    $for cady drivers,    driver table
-    $for bus drivers,     bdriver table
-    $for manager,         manager table
+ You can find predefined credentials in the following tables of database:
+    *for cady drivers,    driver table
+    *for bus drivers,     bdriver table
+    *for manager,         manager table
