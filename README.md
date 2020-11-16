@@ -1,4 +1,4 @@
-INSTRUCTIONS:
+INSTRUCTIONS:/n
 First download all our files from the link https://github.com/cse190001062/University-Transport-Management-System.git
 These files will be downloaded as a zip folder. If you open that zip folder you can see another folder copy that folder. Inside your file explorer go into your OS(c)-drive there you can see a xampp folder. Inside the xampp folder go to htdocs folder. Inside that create a new    folder and give it a name say group8 and inside this folder paste the folder which you have copied earlier. If you wish you can rename the folder to a simple name say transport.
 You can find a file with name trans.sql, that is our database file. You can import that file into your xampp.
